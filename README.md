@@ -1,3 +1,11 @@
+[contactus.zip](https://github.com/Khushi06jain/FashionFever-readme/files/10863215/contactus.zip)
+[home.html.zip](https://github.com/Khushi06jain/FashionFever-readme/files/10863216/home.html.zip)
+[home.zip](https://github.com/Khushi06jain/FashionFever-readme/files/10863217/home.zip)
+[login.zip](https://github.com/Khushi06jain/FashionFever-readme/files/10863218/login.zip)
+[logout.zip](https://github.com/Khushi06jain/FashionFever-readme/files/10863219/logout.zip)
+[package.zip](https://github.com/Khushi06jain/FashionFever-readme/files/10863220/package.zip)
+[package-lock (1).zip](https://github.com/Khushi06jain/FashionFever-readme/files/10863221/package-lock.1.zip)
+[views.zip](https://github.com/Khushi06jain/FashionFever-readme/files/10863222/views.zip)
 # FashionFever-readme
 ## A cloth selling website typically consists of several pages to allow users to browse, purchase.
 ## Here is a description of some typical pages:
